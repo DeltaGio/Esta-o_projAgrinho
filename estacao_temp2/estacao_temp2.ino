@@ -94,8 +94,8 @@ DHT dht(DHTPIN, DHTTYPE);
 
 // Defina sua rede Wi-Fi e Token do Blynk
 
-char ssid[] = "YG";   // Nome da sua rede Wi-Fi
-char pass[] = "delta0706";  // Senha da sua rede Wi-Fi
+char ssid[] = "xx";   // Nome da sua rede Wi-Fi
+char pass[] = "xxxxxxx";  // Senha da sua rede Wi-Fi
 
 // Definindo os widgets no Blynk
 BlynkTimer timer;
